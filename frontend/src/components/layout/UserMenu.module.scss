@@ -1,0 +1,11 @@
+.user {
+    font-weight: bold;
+    color: #fff;
+    padding: 10px 12px;
+    border-radius: 4px;
+    transition: background-color 100ms ease 0s;
+}
+
+.userActive {
+    background-color: #1971c2;
+}

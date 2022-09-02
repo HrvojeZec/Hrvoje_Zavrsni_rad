@@ -1,0 +1,14 @@
+.footer {
+    padding: 16px 64px;
+    background-color: rgb(248, 249, 250);
+    border-top: 1px solid rgb(233, 236, 239);
+}
+
+.inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+a:hover {
+    color: #62676c;
+}
